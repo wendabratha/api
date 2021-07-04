@@ -1,0 +1,165 @@
+[
+	{
+		"attributes": {
+			"kode_join": 640201,
+			"Provinsi": "Muara Muntai",
+			"Kasus_Posi": 2,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 1
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640202,
+			"Provinsi": "Loa Kulu",
+			"Kasus_Posi": 31,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 19
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640203,
+			"Provinsi": "Loa Janan",
+			"Kasus_Posi": 40,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 3
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640204,
+			"Provinsi": "Anggana",
+			"Kasus_Posi": 10,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 5
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640205,
+			"Provinsi": "Muara Badak",
+			"Kasus_Posi": 35,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 6
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640206,
+			"Provinsi": "Tenggarong",
+			"Kasus_Posi": 159,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 95
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640207,
+			"Provinsi": "Sebulu",
+			"Kasus_Posi": 10,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 17
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640208,
+			"Provinsi": "Kota Bangun",
+			"Kasus_Posi": 6,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 5
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640209,
+			"Provinsi": "Kenohan",
+			"Kasus_Posi": 3,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 2
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640210,
+			"Provinsi": "Kembang Janggut",
+			"Kasus_Posi": 2,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 7
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640211,
+			"Provinsi": "Muara Kaman",
+			"Kasus_Posi": 9,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 7
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640212,
+			"Provinsi": "Tabang",
+			"Kasus_Posi": 5,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 1
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640213,
+			"Provinsi": "Samboja",
+			"Kasus_Posi": 42,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 11
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640214,
+			"Provinsi": "Muara Jawa",
+			"Kasus_Posi": 12,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 2
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640215,
+			"Provinsi": "Sanga Sanga",
+			"Kasus_Posi": 14,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 4
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640216,
+			"Provinsi": "Tenggarong Seberang",
+			"Kasus_Posi": 69,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 22
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640217,
+			"Provinsi": "Marangkayu",
+			"Kasus_Posi": 7,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 5
+		}
+	},
+	{
+		"attributes": {
+			"kode_join": 640218,
+			"Provinsi": "Muara Wis",
+			"Kasus_Posi": 0,
+			"Kasus_Semb": "Belum Ada Data",
+			"Kasus_Meni": 0
+		}
+	}
+
+]
